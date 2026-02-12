@@ -1,0 +1,11 @@
+{
+  "name": "Playlist exiter",
+  "description": "Base Level Extension",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "layout.html",
+    "default_icon": "image.png"
+  },
+  "permissions": ["tabs"]
+}
